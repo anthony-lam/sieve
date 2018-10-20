@@ -1,0 +1,1 @@
+long sieve(int target);
